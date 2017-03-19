@@ -18,7 +18,7 @@ Idea is to have a curated list of swadeshi (Indian made) products across all cat
 
 #### <a name="bike">Bike</a>
 #### <a name="clothing">Clothing</a>
-- [Arvind](http://www.arvind.com/) ![Arvind](logo/arvind.png)
+- [Arvind](http://www.arvind.com/) <img src='logo/arvind.png' height='35px'/>
 - Bombay Dyeing
 - Cambridge
 
