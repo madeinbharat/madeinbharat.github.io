@@ -18,9 +18,9 @@ Idea is to have a curated list of swadeshi (Indian made) products across all cat
 
 #### <a name="bike">Bike</a>
 #### <a name="clothing">Clothing</a>
-- [Arvind](http://www.arvind.com/) <img src='logo/arvind.png' height='35px'/>
-- Bombay Dyeing
-- Cambridge
+- [Arvind](http://www.arvind.com/) <img src='logo/arvind.png' height='20px'/>
+- [Bombay Dyeing](http://www.bombaydyeing.com/) <img src='logo/bombay-dyeing.png' height='20px'/>
+- [Cambridge](http://www.cambridgeapparels.com/) <img src='logo/cambridge.jpg' height='20px'/>
 
 #### <a name="coffee">Coffee</a>
 #### <a name="footwear">Footwear/shoes</a>
