@@ -1,18 +1,18 @@
 ### Idea
-Idea is to have a curated list of swadeshi (Indian made) products across all categories at one place. This could be a helpful catalogue for anyone to search for Indian made products and could give a boost the _Swadeshi Movement_ going on in India.
+Idea is to have a curated list of swadeshi (Indian made) products across all categories at one place. This could be a helpful catalogue for anyone to search for Indian made products and could give a boost to the _Swadeshi Movement_ going on in India.
 
 ### Categories
 - [Bike](#bike)
 - [Car](#car)
 - [Clothing](#clothing)
 - [Coffee](#coffee)
-- [Footwear/shoes](#footwear)
-- [Fragrance/Perfume/deodorant](#fragrance)
-- [Mobile/smartphone](#mobile)
+- [Footwear/Shoes](#footwear)
+- [Fragrance/Perfume/Deodorant](#fragrance)
+- [Mobile/Smartphone](#mobile)
 - [Soap](#soap)
 - [Tea](#tea)
 - [Toothbrush](#toothbrush)
-- [Toothpaste/powder](#toothpaste)
+- [Toothpaste/Powder](#toothpaste)
 - [Watch](#watch)
 - [Water](#water)
 
@@ -23,8 +23,8 @@ Idea is to have a curated list of swadeshi (Indian made) products across all cat
 - [Cambridge](http://www.cambridgeapparels.com/) <img src='logo/cambridge.jpg' height='20px'/>
 
 #### <a name="coffee">Coffee</a>
-#### <a name="footwear">Footwear/shoes</a>
-#### <a name="fragrance">Fragrance/Perfume/deodorant</a>
+#### <a name="footwear">Footwear/Shoes</a>
+#### <a name="fragrance">Fragrance/Perfume/Deodorant</a>
 #### <a name="mobile">Mobile</a>
 #### <a name="soap">Soap</a>
 #### <a name="tea">Tea</a>
