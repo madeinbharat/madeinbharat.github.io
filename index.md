@@ -17,6 +17,7 @@ Idea is to have a curated list of swadeshi (Indian made) products across all cat
 - [Water](#water)
 
 #### <a name="bike">Bike</a>
+#### <a name="car">Car</a>
 #### <a name="clothing">Clothing</a>
 - [Arvind](http://www.arvind.com/) <img src='logo/arvind.png' height='20px'/>
 - [Bombay Dyeing](http://www.bombaydyeing.com/) <img src='logo/bombay-dyeing.png' height='20px'/>
@@ -25,10 +26,10 @@ Idea is to have a curated list of swadeshi (Indian made) products across all cat
 #### <a name="coffee">Coffee</a>
 #### <a name="footwear">Footwear/Shoes</a>
 #### <a name="fragrance">Fragrance/Perfume/Deodorant</a>
-#### <a name="mobile">Mobile</a>
+#### <a name="mobile">Mobile/Smartphone</a>
 #### <a name="soap">Soap</a>
 #### <a name="tea">Tea</a>
 #### <a name="toothbrush">Toothbrush</a>
-#### <a name="toothpaste">Toothpaste</a>
+#### <a name="toothpaste">Toothpaste/Powder</a>
 #### <a name="watch">Watch</a>
 #### <a name="water">Water</a>
